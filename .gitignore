@@ -1,0 +1,8 @@
+node_modules/
+*.log
+.env
+src/test-*.xml
+myvalues.yaml
+secrets.sh
+TEST-RESULTS.xml
+.secrets
